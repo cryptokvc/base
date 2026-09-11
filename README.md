@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [parcours documentaire en français](docs/fr/) présente le nœud Base actuel, la dérivation L1, l’exécution, Flashblocks et les preuves.
+
 ![Base](docs/assets/logo.png)
 
 # Base
